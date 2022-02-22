@@ -5,7 +5,7 @@
 |RANSOMWARE GROUP SITES (list) |http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion ||||
 |RANSOMWARE GROUP SITES (list) |http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion ||||
 |54bb47h |http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog |(CURRENTLY DOWN)|||
-|54bb47h |http://54bb47h.blog ||||
+|54bb47h |http://54bb47h.blog |(CURRENTLY DOWN)|||
 |54bb47h (victims page) |http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |(CURRENTLY DOWN)|||
 |AgainstTheWest |http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion/ |(CURRENTLY DOWN)|||
 |AKO |http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |(CURRENTLY DOWN)|||
@@ -15,7 +15,7 @@
 |ATOMSILO |http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |(CURRENTLY DOWN)|||
 |ATOMSILO |http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion |(CURRENTLY DOWN)|||
 |AVADDON |http://avaddongun7rngel.onion |(CURRENTLY DOWN)|||
-|AVOS |http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |(CURRENTLY DOWN)|||YES|
+|AVOS |http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion ||||YES|
 |AVOS (victims request id page) |http://avos2fuj6olp6x36.onion |(CURRENTLY DOWN)|||
 |BABUK (old) |http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |(CURRENTLY DOWN)|||
 |BABUK |http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion ||||
@@ -64,7 +64,7 @@
 |HITLER |http://hitleransomware.cf |(CURRENTLY DOWN)|||
 |HIVE |http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion ||||
 |HIVE (negotiation) |http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion ||random generated user/pass in ransom note||
-|HOLYGHOST |http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |(CURRENTLY DOWN)|||
+|HOLYGHOST |http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion ||||
 |HOTARUS |http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |(CURRENTLY DOWN)|||
 |KARAKURT |https://karakurt.tech |(CURRENTLY DOWN)|||
 |KARAKURT 2.0 |https://209.222.98.19 ||||
@@ -84,7 +84,7 @@
 |LORENZ |http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion ||||
 |LV (1) |http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion ||||
 |LV (2) |http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |(CURRENTLY DOWN)|||
-|MARKETO (DEEP WEB) |https://marketo.cloud ||||
+|MARKETO (DEEP WEB) |https://marketo.cloud |(CURRENTLY DOWN)|||
 |MARKETO (tor v2) |http://g5sbltooh2okkcb2.onion |(CURRENTLY DOWN)|||
 |MARKETO (tor v3 new) |http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion ||||
 |MARKETO (tor v3 old) |http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |(CURRENTLY DOWN)|||
@@ -129,7 +129,7 @@
 |SODINOKIBI (REVIL) |http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |(CURRENTLY DOWN)|||
 |SPOOK DATA |http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/ |(CURRENTLY DOWN)|||YES|
 |SUGAR (victims page)|http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php?data= ||||
-|SUGAR (SURFACE WEB)|https://sugarpanel.space/advauth_ffma ||||
+|SUGAR (SURFACE WEB)|https://sugarpanel.space/advauth_ffma |(CURRENTLY DOWN)|||
 |SUNCRYPT (tor v2) |http://nbzzb6sa6xuura2z.onion |(CURRENTLY DOWN)|||
 |SUNCRYPT (tor v3) |http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion ||||
 |SynACK (El_Cometa) |http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |(CURRENTLY DOWN)|||
